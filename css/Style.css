@@ -104,3 +104,9 @@ button {
 .containercancel {
   padding: 1.2rem 0;
 }
+
+@media (max-width: 480px){
+body{
+  margin:auto;
+}
+}
