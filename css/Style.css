@@ -77,7 +77,14 @@ body {
   text-decoration: none;
 }
 
-.change, .cancel {
+.change {
+  text-decoration: none;
+  cursor: pointer;
+  margin-right: 15px;
+  
+}
+
+.cancel{
   text-decoration: none;
   cursor: pointer;
 }
