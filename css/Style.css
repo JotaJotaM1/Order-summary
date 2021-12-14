@@ -120,7 +120,7 @@ button {
 
 @media (max-width: 480px) {
   main {
-    margin: 2% 2%;
+    margin: 0 2%;
     height: 100vh;
     display: flex;
     justify-content: center;
