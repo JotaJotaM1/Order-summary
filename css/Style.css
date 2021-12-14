@@ -119,10 +119,11 @@ button {
 }
 
 @media (max-width: 480px) {
-  body {
+  main {
     margin: 2% 2%;
+    height: 100vh;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
   }
 }
